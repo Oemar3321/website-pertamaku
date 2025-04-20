@@ -1,2 +1,3 @@
-# website-pertamaku
-berisi Nim dan nama ku
+# Nama dan Nim ku
+Muhammad Umar AL Faruq
+24.12.3321
